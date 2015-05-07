@@ -1,0 +1,11 @@
+{
+	"ImportPath": "github.com/hookercookerman/lampkicking",
+	"GoVersion": "go1.4.2",
+	"Deps": [
+		{
+			"ImportPath": "github.com/joho/godotenv",
+			"Comment": "v1-6-gf658182",
+			"Rev": "f6581828bb37238bc1ce8e561d9e4050630a304d"
+		}
+	]
+}
